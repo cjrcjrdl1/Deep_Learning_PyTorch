@@ -228,4 +228,4 @@ GPU-2에서는 주로 컬러와 관련된 정보를 추출하기 위한 커널�
 ResNet
 ```
 
-Chapter 7 RNN
+Chapter 7 RNN (
